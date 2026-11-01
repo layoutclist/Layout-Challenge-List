@@ -1,0 +1,18 @@
+{
+    "id": 151532392,
+    "name": "Turn The Lights Off",
+    "author": "Angler",
+    "creators": ["Lightradiance"],
+    "verifier": "Bepos",
+    "verification": "https://youtu.be/duc6cry3YAg",
+    "percentToQualify": 50,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "Bepos",
+            "link": "https://www.youtube.com/watch?v=WJChug_jZIk",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
