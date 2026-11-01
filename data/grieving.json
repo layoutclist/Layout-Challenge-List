@@ -1,0 +1,18 @@
+{
+    "id": 151322302,
+    "name": "grieving",
+    "author": "Angler",
+    "creators": ["Lightradiance"],
+    "verifier": "Vysi",
+    "verification": "",
+    "percentToQualify": 50,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "Vysi",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
