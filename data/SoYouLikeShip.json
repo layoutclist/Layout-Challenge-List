@@ -1,0 +1,18 @@
+{
+    "id": 120182473,
+    "name": "Oh so you like ship",
+    "author": "Angler",
+    "creators": ["DiamantSpider"],
+    "verifier": "DiamantSpider",
+    "verification": "https://youtu.be/PqRsTR5XfNQ",
+    "percentToQualify": 50,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "DiamantSpider",
+            "link": "https://youtu.be/PqRsTR5XfNQ",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
