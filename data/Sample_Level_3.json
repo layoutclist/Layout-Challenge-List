@@ -1,24 +1,24 @@
 {
-    "id": 57436521,
-    "name": "Sample Level 3",
-    "author": "Different Publisher",
-    "creators": ["Solo_Creator"],
-    "verifier": "Solo_Creator",
-    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
-    "percentToQualify": "100",
-    "password": "46290",
+    "id": 151317939,
+    "name": "Wave Carried",
+    "author": "Angler",
+    "creators": ["BadEggSmphony"],
+    "verifier": "BadEggSmphony",
+    "verification": "https://youtu.be/zGGXNHmYgOM",
+    "percentToQualify": "50",
+    "password": "Not Copyable",
     "records": [
         {
-            "user": "Sample_Victor_1",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "user": "BadEggSmphony",
+            "link": "https://youtu.be/zGGXNHmYgOM",
             "percent": 100,
-            "hz": 360
+            "hz":??? 
         },
         {
-            "user": "Sample_Victor_2",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
-            "percent": 100,
-            "hz": 120
+            "user": "TideBreakerr",
+            "link": "none",
+            "percent": 58,
+            "hz":???
         }
     ]
 }
