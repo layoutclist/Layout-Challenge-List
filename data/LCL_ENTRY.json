@@ -19,6 +19,12 @@
 			"link": "Lightradiance",
 			"percent": 100,
     		"hz": 90
-        } 
+        }, 
+        {
+            "user": "DiamantSpider",
+            "link": "https://youtu.be/OAx9JkfpFbk",
+            "percent": 100,
+            "hz": 60
+        }
     ]
 }
