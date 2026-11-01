@@ -1,16 +1,11 @@
 [
     {
         "role": "owner",
-        "name": "List Owner",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
-    },
-    {
-        "role": "Angler",
         "name": "Angler",
         "link": "https://discord.gg/Byw6TVC3xQ"
     },
     {
-        "role": "Bepos",
+        "role": "owner",
         "name": "Bepos",
         "link": "https://discord.gg/Byw6TVC3xQ"
     },
