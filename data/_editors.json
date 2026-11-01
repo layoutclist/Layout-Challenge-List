@@ -1,7 +1,12 @@
 [
     {
         "role": "owner",
-        "name": "Angler",
+        "name": "Owners",
+        "link": "https://discord.gg/Byw6TVC3xQ"
+    },
+    {
+        "role": "owner",
+        "name": "AnglerFish",
         "link": "https://discord.gg/Byw6TVC3xQ"
     },
     {
@@ -26,7 +31,12 @@
     },
     {
         "role": "dev",
-        "name": "List Coder",
+        "name": "Top Player",
+        "link": "https://www.youtube.com/@Prometheus_Alt"
+    },
+    {
+        "role": "dev",
+        "name": "DiamantSpider",
         "link": "https://www.youtube.com/@Prometheus_Alt"
     }
 ]
