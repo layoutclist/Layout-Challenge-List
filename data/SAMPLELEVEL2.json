@@ -1,12 +1,18 @@
 {
-    "id": 57436521,
-    "name": "SAMPLELEVEL2",
-    "author": "Solo_Creator",
-    "creators": [],
-    "verifier": "Solo_Creator",
-    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
-    "percentToQualify": "100",
-    "password": "Free To Copy",
+    "id": 67,
+    "name": "67",
+    "author": "Angler",
+    "creators": ["67"],
+    "verifier": "idk",
+    "verification": "my bombo",
+    "percentToQualify": 70,
+    "password": "Not Copyable",
     "records": [
+        {
+            "user": "Bepos",
+            "link": "https://www.youtube.com/watch?v=WJChug_jZIk",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
