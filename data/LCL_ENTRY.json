@@ -12,7 +12,13 @@
             "user": "Bepos",
             "link": "Lightradiance",
             "percent": 100,
-            "hz": 90
-        }
+            "hz": 240
+        }, 
+        {    
+			"user": "Lightradiance",
+			"link": "Lightradiance",
+			"percent": 100,
+    		"hz": 90
+        } 
     ]
 }
