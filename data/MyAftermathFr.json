@@ -13,6 +13,12 @@
             "link": "juan",
             "percent": 100,
             "hz": 999
+        }, 
+        {
+            "user": "DiamantSpider",
+            "link": "https://youtu.be/5TeWL8KV5Lc",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }
