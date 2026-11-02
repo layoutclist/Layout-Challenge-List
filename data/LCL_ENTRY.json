@@ -14,12 +14,6 @@
             "percent": 100,
             "hz": 240
         }, 
-        {    
-			"user": "LCL",
-			"link": "LCL",
-			"percent": 100,
-    		"hz": 999
-        }, 
         {
             "user": "DiamantSpider",
             "link": "https://youtu.be/OAx9JkfpFbk",
