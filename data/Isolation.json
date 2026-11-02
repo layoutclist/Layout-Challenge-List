@@ -1,0 +1,18 @@
+{
+    "id": 151340233,
+    "name": "Isolation",
+    "author": "Angler",
+    "creators": ["Lightradiance"],
+    "verifier": "Bepos",
+    "verification": "https://youtu.be/Va9wKk3n4E0",
+    "percentToQualify": 50,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "TideBreakerr",
+            "link": "https://www.youtube.com/watch?v=WJChug_jZIk",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
