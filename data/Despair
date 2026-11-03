@@ -1,0 +1,18 @@
+{
+    "id": 151687900,
+    "name": "Despair",
+    "author": "Angler",
+    "creators": ["ISixMars"],
+    "verifier": "Cubosee",
+    "verification": "https://www.youtube.com/watch?v=2spLYMp7E2k",
+    "percentToQualify": 50,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "LCL",
+            "link": "LCL",
+            "percent": 100,
+            "hz": 999
+        }
+    ]
+}
