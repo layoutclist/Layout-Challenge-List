@@ -19,6 +19,12 @@
             "link": "https://youtu.be/IlfImlc3-68",
             "percent": 100,
             "hz": 60
+        }, 
+        {
+            "user": "Omelegg",
+            "link": "https://www.youtube.com/watch?v=uVyv8iQ_ZjQ",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
