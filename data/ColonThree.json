@@ -1,0 +1,18 @@
+{
+    "id": 151871502,
+    "name": "Colon Three",
+    "author": "Angler",
+    "creators": ["DogoStyles"],
+    "verifier": "DogoStyles",
+    "verification": "https://youtu.be/QWNijDWwxWY",
+    "percentToQualify": 50,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "LCL",
+            "link": "LCL",
+            "percent": 100,
+            "hz": 999
+        }
+    ]
+}
