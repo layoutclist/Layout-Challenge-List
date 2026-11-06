@@ -1,0 +1,18 @@
+{
+    "id": 151829159,
+    "name": "Gravits",
+    "author": "Angler",
+    "creators": ["4flwr"],
+    "verifier": "Omelegg",
+    "verification": "https://youtu.be/LC6JZjUWMXA",
+    "percentToQualify": 50,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "LCL",
+            "link": "LCL",
+            "percent": 100,
+            "hz": 999
+        }
+    ]
+}
