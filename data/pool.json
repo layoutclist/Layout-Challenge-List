@@ -1,0 +1,18 @@
+{
+    "id": 151741097,
+    "name": "Pool",
+    "author": "Angler",
+    "creators": ["Omelegg"],
+    "verifier": "Omelegg",
+    "verification": "https://youtu.be/n9xXkRhTNNc",
+    "percentToQualify": 50,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "LCL",
+            "link": "LCL",
+            "percent": 100,
+            "hz": 999
+        }
+    ]
+}
