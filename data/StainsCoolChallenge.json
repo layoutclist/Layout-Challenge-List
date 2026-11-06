@@ -1,0 +1,18 @@
+{
+    "id": 151880520,
+    "name": "Stains cool level",
+    "author": "Angler",
+    "creators": ["stainius"],
+    "verifier": "stainius",
+    "verification": "https://youtu.be/G5Ms6M_n-Dc",
+    "percentToQualify": 50,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "LCL",
+            "link": "LCL",
+            "percent": 100,
+            "hz": 999
+        }
+    ]
+}
