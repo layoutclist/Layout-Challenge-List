@@ -1,0 +1,18 @@
+{
+    "id": 151918524,
+    "name": "CreamWall",
+    "author": "Angler",
+    "creators": ["XnormalGD"],
+    "verifier": "XnormalGD",
+    "verification": "https://youtu.be/mfvRmfyRBbs?is=CErH7C4H1qs-hElr",
+    "percentToQualify": 50,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "LCL",
+            "link": "LCL",
+            "percent": 100,
+            "hz": 999
+        }
+    ]
+}
