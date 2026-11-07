@@ -25,6 +25,12 @@
             "link": "https://m.youtube.com/watch?v=VPzG0Y7pu1Q",
             "percent": 100,
             "hz": 60
+        }, 
+        {
+            "user": "stainius",
+            "link": "https://www.youtube.com/watch?v=d6PYpncj42k",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
