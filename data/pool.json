@@ -25,6 +25,12 @@
             "link": "https://m.youtube.com/watch?v=FAjnXHaEkEo&feature=youtu.be",
             "percent": 100,
             "hz": 60
+        }, 
+        {
+            "user": "Hydra",
+            "link": "https://streamable.com/kaeln2",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
