@@ -25,6 +25,12 @@
             "link": "https://www.youtube.com/watch?v=d6PYpncj42k",
             "percent": 100,
             "hz": 240
+        }, 
+        {
+            "user": "DiamantSpider",
+            "link": "https://youtu.be/S0K2aPuc2sE",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }
