@@ -25,6 +25,16 @@
         "link": "https://www.youtube.com/@Prometheus_Alt"
     },
     {
+        "role": "helper",
+        "name": "Stainius",
+        "link": "https://www.youtube.com/@Prometheus_Alt"
+    },
+    {
+        "role": "helper",
+        "name": "DiamantSpider",
+        "link": "https://www.youtube.com/@Prometheus_Alt"
+    }, 
+    {
         "role": "trial",
         "name": "Trial List Helper",
         "link": "https://www.youtube.com/@Prometheus_Alt"
@@ -36,7 +46,7 @@
     },
     {
         "role": "dev",
-        "name": "Omelegg",
+        "name": "CeeCeeNinja",
         "link": "https://www.youtube.com/@Prometheus_Alt"
     }
 ]
