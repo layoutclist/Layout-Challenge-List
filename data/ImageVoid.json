@@ -1,0 +1,18 @@
+{
+    "id": 152082984,
+    "name": "Image Void",
+    "author": "Angler",
+    "creators": ["Maverick"],
+    "verifier": "DiamantSpider",
+    "verification": "https://youtu.be/-GCpkfWrT2g",
+    "percentToQualify": 50,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "LCL",
+            "link": "LCL",
+            "percent": 100,
+            "hz": 99999
+        }
+    ]
+}
