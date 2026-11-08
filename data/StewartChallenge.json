@@ -12,7 +12,13 @@
             "user": "stainius",
             "link": "https://youtu.be/GrHebD5tQLQ",
             "percent": 100,
-            "hz": 999
+            "hz": 67000
+        }, 
+        {
+            "user": "CeeCeeNinja",
+            "link": "https://www.youtube.com/watch?v=advIjVqszUA",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
