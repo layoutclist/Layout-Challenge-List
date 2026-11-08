@@ -31,6 +31,12 @@
             "link": "https://www.youtube.com/watch?v=d6PYpncj42k",
             "percent": 100,
             "hz": 240
+        }, 
+        {
+            "user": "CeeCeeNinja",
+            "link": "https://youtu.be/UsLPzMEchOk",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
