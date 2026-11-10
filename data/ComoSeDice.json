@@ -1,0 +1,18 @@
+{
+    "id": 152036433,
+    "name": "Como Se Dice",
+    "author": "Bepos",
+    "creators": ["IHATETHISSTUPID"],
+    "verifier": "IHATETHISSTUPID",
+    "verification": "https://youtu.be/Djw1D7cyUB4",
+    "percentToQualify": 50,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "MagnusCarlsen",
+            "link": "https://www.youtube.com/watch?v=HLtbeif0TJs",
+            "percent": 100,
+            "hz": 64
+        }
+    ]
+}
