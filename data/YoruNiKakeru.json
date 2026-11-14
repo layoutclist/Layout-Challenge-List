@@ -1,0 +1,18 @@
+{
+    "id": 152111980,
+    "name": "Yoru Ni Kakeru",
+    "author": "Angler",
+    "creators": ["Lightradiance"],
+    "verifier": "Bepos",
+    "verification": "https://youtu.be/ee43PqoEj2I",
+    "percentToQualify": 50,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "LCL",
+            "link": "LCL",
+            "percent": 100,
+            "hz": 999
+        }
+    ]
+}
