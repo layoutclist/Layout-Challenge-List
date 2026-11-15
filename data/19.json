@@ -1,0 +1,18 @@
+{
+    "id": 151049712,
+    "name": "19",
+    "author": "Angler",
+    "creators": ["z"],
+    "verifier": "z",
+    "verification": "https://youtu.be/IVslGcaPads",
+    "percentToQualify": 50,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "LCL",
+            "link": "LCL",
+            "percent": 100,
+            "hz": 999
+        }
+    ]
+}
