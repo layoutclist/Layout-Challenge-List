@@ -44,7 +44,7 @@ export default {
                     <span>{{ verifier }}</span>
                 </p>
             </template>
-            <div class="type-title-sm">Rate</div>
+            <div class="type-title-sm">Level Rating</div>
             <p class="type-body">
                 <span>{{ author }}</span>
             </p>
