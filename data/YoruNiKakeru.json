@@ -13,6 +13,12 @@
             "link": "screenshare",
             "percent": 100,
             "hz": 10
+        }, 
+        {
+            "user": "DiamantSpider",
+            "link": "https://youtu.be/Xoko9L3g86k",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
