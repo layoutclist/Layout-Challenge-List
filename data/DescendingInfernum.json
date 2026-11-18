@@ -1,0 +1,18 @@
+{
+    "id": 152567126,
+    "name": "Descending Infernum",
+    "author": "Rated",
+    "creators": ["Lightradiance","Bepos"],
+    "verifier": "Bepos",
+    "verification": "https://youtu.be/BdhBcNSi6aM",
+    "percentToQualify": 50,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "LCL",
+            "link": "LCL",
+            "percent": 100,
+            "hz": 999
+        }
+    ]
+}
