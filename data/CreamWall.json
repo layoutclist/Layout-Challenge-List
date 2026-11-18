@@ -37,6 +37,12 @@
             "link": "l",
             "percent": 100,
             "hz": 50000000
+        }, 
+        {
+            "user": "NoXale",
+            "link": "https://youtu.be/zeX7ruxoDPs",
+            "percent": 100,
+            "hz": 6.5
         }
     ]
 }
