@@ -9,10 +9,10 @@
     "password": "Not Copyable",
     "records": [
         {
-            "user": "LCL",
+            "user": "DiamantSpider",
             "link": "LCL",
             "percent": 100,
-            "hz": 999
+            "hz": 0.367
         }
     ]
 }
