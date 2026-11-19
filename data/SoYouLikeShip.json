@@ -12,37 +12,43 @@
             "user": "Omelegg",
             "link": "https://youtu.be/N27IjootOiw",
             "percent": 100,
-            "hz": 240
+            "hz": 10
         }, 
         {
             "user": "Tidebreakerr",
             "link": "https://youtu.be/esedeWMdr_g",
             "percent": 100,
-            "hz": 60
+            "hz": 10
         }, 
         {
             "user": "stainius",
             "link": "https://www.youtube.com/watch?v=d6PYpncj42k",
             "percent": 100,
-            "hz": 240
+            "hz": 10
         }, 
         {
             "user": "CeeCeeNinja",
             "link": "https://youtu.be/UsLPzMEchOk",
             "percent": 100,
-            "hz": 240
+            "hz": 10
         }, 
         {
             "user": "Halo_champion",
             "link": "https://medal.tv/games/geometry-dash/clips/nT51d09b2JxndsNTF?invite=cr-MSxjb20sNDQ4MDQ1NjI5",
             "percent": 100,
-            "hz": 240
+            "hz": 10
         }, 
         {
             "user": "NoXale",
             "link": "https://youtu.be/zeX7ruxoDPs",
             "percent": 100,
             "hz": 6.5
+        }, 
+        {
+            "user": "TehHolyDuck",
+            "link": "https://medal.tv/games/geometry-dash/clips/nV2VKmed8urQDcXQf?invite=cr-MSxPSDYsNDkyMjY5MzM0",
+            "percent": 100,
+            "hz": 10
         }
     ]
 }
