@@ -1,0 +1,18 @@
+{
+    "id": 152636759,
+    "name": "Hypersurface",
+    "author": "Rated",
+    "creators": ["frozystaysfrozen"],
+    "verifier": "frozystaysfrozen",
+    "verification": "https://youtu.be/YRue8BZsQGg",
+    "percentToQualify": 50,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "LCL",
+            "link": "LCL",
+            "percent": 100,
+            "hz": 999
+        }
+    ]
+}
