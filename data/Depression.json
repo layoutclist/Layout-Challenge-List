@@ -1,0 +1,18 @@
+{
+    "id": 151834535,
+    "name": "Depression",
+    "author": "Featured",
+    "creators": ["ISixMars"],
+    "verifier": "Bepos",
+    "verification": "https://youtu.be/N0wmCtE5u_A",
+    "percentToQualify": 50,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "LCL",
+            "link": "LCL",
+            "percent": 100,
+            "hz": 999
+        }
+    ]
+}
