@@ -91,6 +91,12 @@
             "link": "https://www.youtube.com/watch?v=4XIM6u05-so",
             "percent": 100,
             "hz": 10
+        }, 
+        {
+            "user": "PixelSyncYT",
+            "link": "https://youtu.be/htOgtg8rWYU",
+            "percent": 100,
+            "hz": 10
         }
     ]
 }
