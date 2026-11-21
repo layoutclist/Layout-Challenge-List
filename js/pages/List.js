@@ -14,6 +14,7 @@ const roleIconMap = {
     trial: "user-lock",
     Angler: "Anglerfish", 
     Bepos: "Bepos", 
+    DiamantSpider: "DiamantSpider", 
 };
 
 export default {
