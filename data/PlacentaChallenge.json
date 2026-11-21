@@ -12,25 +12,31 @@
             "user": "DiamantSpider",
             "link": "https://youtu.be/5Zkr5C5nh44",
             "percent": 100,
-            "hz": 60
+            "hz": 10
         }, 
         {
             "user": "stainius",
             "link": "https://www.youtube.com/watch?v=d6PYpncj42k",
             "percent": 100,
-            "hz": 240
+            "hz": 10
         }, 
         {
             "user": "CeeCeeNinja",
             "link": "https://youtu.be/UsLPzMEchOk",
             "percent": 100,
-            "hz": 240
+            "hz": 10
         }, 
         {
             "user": "NoXale",
             "link": "Screenshared",
             "percent": 100,
             "hz": 10
+        }, 
+        {
+            "user": "TehHolyDuck",
+            "link": "https://medal.tv/games/geometry-dash/clips/nXybgEAjnZIc5alyf?invite=cr-MSxFdkYsNDkyMjY5MzM0",
+            "percent": 100,
+            "hz": 9.5
         }
     ]
 }
