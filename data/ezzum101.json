@@ -1,0 +1,18 @@
+{
+    "id": 152720038,
+    "name": "ezzum101",
+    "author": "Rated",
+    "creators": ["PixelSyncYT"],
+    "verifier": "PixelSyncYT",
+    "verification": "https://youtu.be/OekmuCld0TM",
+    "percentToQualify": 50,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "LCL",
+            "link": "LCL",
+            "percent": 100,
+            "hz": 999
+        }
+    ]
+}
