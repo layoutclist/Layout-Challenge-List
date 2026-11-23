@@ -12,7 +12,13 @@
             "user": "frozystaysfrozen",
             "link": "https://youtu.be/7ETAURyioqI",
             "percent": 100,
-            "hz": 999
+            "hz": 10
+        }, 
+        {
+            "user": "PixelSyncYT",
+            "link": "https://youtu.be/xvfqMXVl3kE",
+            "percent": 100,
+            "hz": 7.5
         }
     ]
 }
