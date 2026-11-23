@@ -12,61 +12,61 @@
             "user": "Bepos",
             "link": "Lightradiance",
             "percent": 100,
-            "hz": 240
+            "hz": 10
         }, 
         {
             "user": "DiamantSpider",
             "link": "https://youtu.be/OAx9JkfpFbk",
             "percent": 100,
-            "hz": 60
+            "hz": 10
         }, 
         {
             "user": "Omelegg",
             "link": "https://youtu.be/c_6-ZC5goRA",
             "percent": 100,
-            "hz": 240
+            "hz": 4
         }, 
         {
             "user": "IHATETHISSTUPID",
             "link": "https://medal.tv/games/geometry-dash/clips/nR19v1QNud22kv74M?invite=cr-MSw3UFMsNjY4NzAyNTQz",
             "percent": 100,
-            "hz": 60
+            "hz": 10
         }, 
         {
             "user": "XxJedxX",
             "link": "https://www.tiktok.com/t/ZPLHCgbuT/",
             "percent": 100,
-            "hz": 120
+            "hz": 10
         }, 
         {
             "user": "Halo_champion",
             "link": "https://medal.tv/games/geometry-dash/clips/nSgnehhwePaBPhaoj?invite=cr-MSxsRmMsNDQ4MDQ1NjI5",
             "percent": 100,
-            "hz": 240
+            "hz": 10
         }, 
         {
             "user": "stainius",
             "link": "https://www.youtube.com/watch?v=d6PYpncj42k",
             "percent": 100,
-            "hz": 240
+            "hz": 10
         }, 
         {
             "user": "CeeCeeNinja",
             "link": "https://youtu.be/UsLPzMEchOk",
             "percent": 100,
-            "hz": 240
+            "hz": 10
         }, 
         {
             "user": "glarb",
             "link": "https://www.youtube.com/watch?v=7MmIiQo1SDU",
             "percent": 100,
-            "hz": 240
+            "hz": 10
         }, 
         {
             "user": "Lupiky",
             "link": "https://medal.tv/games/geometry-dash/clips/nUbNAVz2PNsG9QllB?invite=cr-MSxoVWwsMjYxMDE4NTE5",
             "percent": 100,
-            "hz": 240
+            "hz": 10
         }, 
         {
             "user": "NoXale",
@@ -85,6 +85,12 @@
             "link": "https://medal.tv/games/geometry-dash/clips/nUZShovHq053oV0U2?invite=cr-MSxWOWMsNDkyMjY5MzM0",
             "percent": 100,
             "hz": 10
+        }, 
+        {
+            "user": "PixelSyncYT",
+            "link": "https://youtu.be/52IyX7g3uVQ",
+            "percent": 100,
+            "hz": 8
         }
     ]
 }
