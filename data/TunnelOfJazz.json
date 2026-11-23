@@ -1,0 +1,18 @@
+{
+    "id": 152851482,
+    "name": "Tunnel Of Jazz",
+    "author": "Rated",
+    "creators": ["PixelSyncYT"],
+    "verifier": "PixelSyncYT",
+    "verification": "https://youtu.be/tgwase6V4xE?si=jC2bVB9zDBuSoEW2",
+    "percentToQualify": 50,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "Lightradiance",
+            "link": "bro",
+            "percent": 100,
+            "hz": 1
+        }
+    ]
+}
