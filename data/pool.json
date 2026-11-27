@@ -73,6 +73,12 @@
             "link": "Screenshared",
             "percent": 100,
             "hz": 10
+        }, 
+        {
+            "user": "Cubosee",
+            "link": "https://youtu.be/a3pmYtMjJ28?si=aVsz4N9mAu2JwAjd",
+            "percent": 100,
+            "hz": 10
         }
     ]
 }
