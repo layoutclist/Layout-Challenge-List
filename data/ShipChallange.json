@@ -1,0 +1,18 @@
+{
+    "id": 676767,
+    "name": "Ship challange",
+    "author": "rated",
+    "creators": ["shadowwalker123"],
+    "verifier": "shadowwalker123",
+    "verification": "https://m.youtube.com/watch?v=99KngdFYUow",
+    "percentToQualify": 50,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "LCL",
+            "link": "LCL",
+            "percent": 100,
+            "hz": 999
+        }
+    ]
+}
