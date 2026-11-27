@@ -12,25 +12,25 @@
             "user": "omelegg",
             "link": "https://youtu.be/aM8LgXT5lM4",
             "percent": 100,
-            "hz": 240
+            "hz": 10
         }, 
         {
             "user": "DiamantSpider",
             "link": "https://youtu.be/jdfCVmDkCAo",
             "percent": 100,
-            "hz": 60
+            "hz": 10
         }, 
         {
             "user": "stainius",
             "link": "https://youtu.be/1a4fubYnknc",
             "percent": 100,
-            "hz": 240
+            "hz": 10
         }, 
         {
             "user": "CeeCeeNinja",
             "link": "https://youtu.be/UsLPzMEchOk",
             "percent": 100,
-            "hz": 240
+            "hz": 10
         }, 
         {
             "user": "CreamWall",
@@ -55,6 +55,12 @@
             "link": "https://youtu.be/DTXbOsxa6jg",
             "percent": 100,
             "hz": 8
+        }, 
+        {
+            "user": "Zet",
+            "link": "https://youtu.be/r6sdqdsdbfU",
+            "percent": 100,
+            "hz": 5.5
         }
     ]
 }
