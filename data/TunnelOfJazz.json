@@ -13,6 +13,12 @@
             "link": "bro",
             "percent": 100,
             "hz": 1
+        }, 
+        {
+            "user": "NoXale",
+            "link": "https://youtu.be/tMVhQpjEmqI",
+            "percent": 100,
+            "hz": 10
         }
     ]
 }
